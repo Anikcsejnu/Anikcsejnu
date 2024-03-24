@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikcsejnu" alt="anikcsejnu" /></a> </p>
 
-- 🔭 I’m currently working on renowned software company on Bangladesh named [Enosis Solutions](https://www.enosisbd.com/)
+- 🔭 I’m currently working on renowned software company in Bangladesh named [Enosis Solutions](https://www.enosisbd.com/)
 
 - 💬 Ask me about **C#, Go, C++, JS, Python, .NET, Express.js, DELPHI, Django, and SQL**
 
